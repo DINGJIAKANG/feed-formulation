@@ -24,6 +24,5 @@ Thumbs.db
 *.log
 
 # Testing
-测试文件/
 temp/
 tmp/
