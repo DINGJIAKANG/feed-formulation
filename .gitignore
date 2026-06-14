@@ -26,3 +26,8 @@ Thumbs.db
 # Testing
 temp/
 tmp/
+
+# Excel temporary files (lock files)
+~$*.xlsx
+~$*.xls
+~$*.xlsm
